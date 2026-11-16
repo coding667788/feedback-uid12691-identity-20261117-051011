@@ -1,0 +1,7 @@
+{
+  "mode": "fuzz",
+  "seed": 12691,
+  "cases": 300,
+  "findings_dir": "findings",
+  "minimize": true
+}

@@ -5,3 +5,6 @@ __pycache__/
 *.db-wal
 *.db-shm
 .venv/
+tests/.tmp/
+findings/
+result.json
